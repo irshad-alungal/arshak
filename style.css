@@ -33,6 +33,33 @@ body{
 }
 .dp p{
     color: #ffffff;
-    font-size: 10px;
+    font-size: 12px;
+    font-family: 'MADE TOMMY Outline', sans-serif;
+    font-family: 'MADE TOMMY', sans-serif;
 
+}
+.tet h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'MADE TOMMY Outline', sans-serif;
+    font-family: 'MADE TOMMY', sans-serif;
+
+}
+.tet p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'MADE TOMMY Outline', sans-serif;
+    font-family: 'MADE TOMMY', sans-serif;
+
+}
+.cc {
+    text-align: center;
+}
+.cc p{
+    font-size: 22px;
+    color: #272A2A;
+    font-family: 'MADE TOMMY Outline', sans-serif;
+    font-family: 'MADE TOMMY', sans-serif;
 }
