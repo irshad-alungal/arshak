@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.box1{
+    width: auto;
+    height: 14%;
+    background-color: #272A2A;
+    text-align: center;
+    padding-bottom: 55px;
+    padding-top: 35px;
+}
+.box{
+    width: auto;
+    height: 14%;
+    background-color: #272A2A;
+    text-align: center;
+}
+.box img{
+    padding: 5px;
+}
+.logo{
+    text-align: center;
+    display: block;
+    padding-top: 30px;
+    width: 400px;
+    padding-bottom: 70px;
+}
+
+.dp{
+    text-align: center;
+    margin-top: -50px;
+    border-image: round;
+}
+.dp p{
+    color: #ffffff;
+    font-size: 10px;
+
+}
