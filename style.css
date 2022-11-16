@@ -36,7 +36,7 @@ body{
     font-size: 12px;
     font-family: 'MADE TOMMY Outline', sans-serif;
     font-family: 'MADE TOMMY', sans-serif;
-
+    background-color: black;
 }
 .tet h1{
     color: #ffffff;
@@ -44,7 +44,7 @@ body{
     font-size: 30px;
     font-family: 'MADE TOMMY Outline', sans-serif;
     font-family: 'MADE TOMMY', sans-serif;
-
+    background-color: black;
 }
 .tet p{
     color: #ffffff;
@@ -52,14 +52,16 @@ body{
     font-size: 25px;
     font-family: 'MADE TOMMY Outline', sans-serif;
     font-family: 'MADE TOMMY', sans-serif;
-
+    background-color: black;
 }
 .cc {
     text-align: center;
+    background-color: black;
 }
 .cc p{
     font-size: 22px;
     color: #272A2A;
     font-family: 'MADE TOMMY Outline', sans-serif;
     font-family: 'MADE TOMMY', sans-serif;
+    background-color: black;
 }
